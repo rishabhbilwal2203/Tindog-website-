@@ -146,7 +146,7 @@ h2{
     margin: 20px 10px;
 }
 
-@media (max-width: 1020px){
+@media (max-width: 992px){
     #title{
         text-align: center;
     }
